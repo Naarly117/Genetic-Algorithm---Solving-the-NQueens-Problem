@@ -1,10 +1,3 @@
-/*
- * Name: Josh Naar
- * Course: CIS 421 - Artificial Intelligence
- * Assignment: 2
- * Due: 10/3/16
- */
-
 import java.io.*;
 import java.util.*;
 
