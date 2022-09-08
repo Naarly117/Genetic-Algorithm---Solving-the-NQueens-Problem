@@ -297,16 +297,4 @@ public class NQueens {
 
 }
 
-/*
-
-Currently:
-
-	-Finished!
-
-Going forward:
-
-	-Run 25x on N = 12, generate log file
-        -Create scatter plot from the generated data
-
-*/
 
